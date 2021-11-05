@@ -17,11 +17,11 @@ In this challenge, you are to build a Smurfs village database utilizing Redux as
 ## Project Setup
 * [ ] Run npm install to install your dependencies.
 * [ ] Run npm start to run your frontend and backend code automatically.
-* [ ] Note your backend code will run automatically when your run npm start. There is no need to seperately run a server.js file and no means to test the server through postman or the browser. Feel free to ignore any messages related to MSW or mock service workers.
+* [ ] Note your backend code will run automatically when your run npm start. There is no need to separately run a server.js file and no means to test the server through postman or the browser. Feel free to ignore any messages related to MSW or mock service workers.
 
 ## Project Instructions
 
-In this project, you will build the reducer, actions and basic redux connects nessiary to display smurf data. You will be implementing both thunk and traditional redux actions.
+In this project, you will build the reducer, actions and basic redux connects necessary to display smurf data. You will be implementing both thunk and traditional redux actions.
 
 ## API documentation 
 
